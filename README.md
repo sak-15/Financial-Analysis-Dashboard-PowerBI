@@ -14,6 +14,9 @@ Comparing EBITDA Margin across Business Units gives insights into which units ar
 4. Revenue by Indicator (Pie chart):
 This pie chart shows that the majority of revenue (71.65%) comes from      net sales, with spare parts contributing significantly (19.4%), while services and other sources make up a smaller portion.
 
+<img width="2370" height="1382" alt="image" src="https://github.com/user-attachments/assets/35b2c27a-6c38-49cb-9e79-1440c225b7dd" />
+
+
 ## Shanghai VS New York
 
 1. Total Indirect Cost (EUR) and Total Direct Cost (EUR) by Business Unit (Bar Chart)
@@ -24,6 +27,11 @@ This visual helps stakeholders compare the top-line (revenue) with bottom-line (
 This line chart shows how the profitability of each business unit has evolved over time. New York shows a consistent upward trend, while Shanghai’s performance fluctuates.
 4. Headcount by CONTRACT and BU (Stacked Bar Chart)
 This chart gives insights into the workforce distribution between New York and Shanghai. It categorizes the employees by different contract types, giving a deeper understanding of employment structure.
+
+<img width="2364" height="1328" alt="image" src="https://github.com/user-attachments/assets/00b319f0-f7f3-4fdf-92f3-61f4cfa98aef" />
+
+<img width="2366" height="1374" alt="image" src="https://github.com/user-attachments/assets/162eb75f-b1bf-48ee-8b84-45fd50e205fe" />
+
 
 ## Overall Insights:
 
